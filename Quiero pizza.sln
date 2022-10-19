@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quieropizza.web", "Quieropizza.web\Quieropizza.web.csproj", "{5A780BC4-E261-4F8D-A513-48D063D503BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quieropizza.WebAdmin", "Quieropizza.WebAdmin\Quieropizza.WebAdmin.csproj", "{377B972C-6368-4A0C-BDA0-ECF369B9343F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuieroPizza.Win", "QuieroPizza.Win\QuieroPizza.Win.csproj", "{9E9D063B-8F24-425E-92ED-2A0674A0DAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuieroPizza.BL", "QuieroPizza.BL\QuieroPizza.BL.csproj", "{1E6455EB-78D4-4D4C-AFA3-AA799834163F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A780BC4-E261-4F8D-A513-48D063D503BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A780BC4-E261-4F8D-A513-48D063D503BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A780BC4-E261-4F8D-A513-48D063D503BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A780BC4-E261-4F8D-A513-48D063D503BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377B972C-6368-4A0C-BDA0-ECF369B9343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377B972C-6368-4A0C-BDA0-ECF369B9343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377B972C-6368-4A0C-BDA0-ECF369B9343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377B972C-6368-4A0C-BDA0-ECF369B9343F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9D063B-8F24-425E-92ED-2A0674A0DAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9D063B-8F24-425E-92ED-2A0674A0DAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9D063B-8F24-425E-92ED-2A0674A0DAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9D063B-8F24-425E-92ED-2A0674A0DAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6455EB-78D4-4D4C-AFA3-AA799834163F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6455EB-78D4-4D4C-AFA3-AA799834163F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6455EB-78D4-4D4C-AFA3-AA799834163F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6455EB-78D4-4D4C-AFA3-AA799834163F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
